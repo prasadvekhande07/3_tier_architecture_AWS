@@ -8,4 +8,7 @@ As it is amazon_linux_2 it already has AWS CLI(command line utility to communica
 $ aws configure
 # Install terraform cli 
 https://developer.hashicorp.com/terraform/downloads?product_intent=terraform
+# AWS document used 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-lamp-amazon-linux-2.html
+https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8078e469752a/en-US
 
